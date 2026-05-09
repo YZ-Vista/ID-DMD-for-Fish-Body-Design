@@ -42,10 +42,10 @@ Example demonstrations (*Left*: **ID-DMD**; *Right*: **Ground true**)
 
 **i.e. Leopard Cat Shark (Never seen in training data):**
 
-<table width="100%">
+<table width="90%">
   <tr>
     <th width=30%">Fish</th>
-    <th width="70%">Hydrodynamics</th>
+    <th width="60%">Hydrodynamics</th>
   </tr>
   <tr>
     <td>&emsp;</td>
