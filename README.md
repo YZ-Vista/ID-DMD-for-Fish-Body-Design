@@ -42,13 +42,13 @@ Example demonstrations (*Left*: **ID-DMD**; *Right*: **Ground true**)
 
 **i.e. Leopard Cat Shark (Never seen in training data):**
 
-<img src="Figs/LeopardCatshark.gif" width="20%"> 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Vorticity:** <img src="Figs/Vortex.gif" width="50%">
 
-**Vorticity:** <img src="Figs/Vortex.gif" width="50%">
+<img src="Figs/LeopardCatshark.gif" width="25%">   &emsp;&emsp;  **Velocity:** <img src="Figs/Velocity.gif" width="50%">
 
-**Velocity:** <img src="Figs/Velocity.gif" width="50%">
-
-**Pressure:** <img src="Figs/Pressure.gif" width="50%">
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Pressure:** <img src="Figs/Pressure.gif" width="50%">
 
 <img src="Figs/Fig_3.png" width="90%"> 
 
