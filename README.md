@@ -50,4 +50,5 @@ Example demonstrations (*Left*: **ID-DMD**; *Right*: **Ground true**)
 
 **Pressure:** <img src="Figs/Pressure.gif" width="50%">
 
+<img src="Figs/Fig_3.png" width="90%"> 
 
