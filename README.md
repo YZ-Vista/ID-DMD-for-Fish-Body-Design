@@ -44,20 +44,20 @@ Example demonstrations (*Left*: **ID-DMD**; *Right*: **Ground true**)
 
 <table width="90%">
   <tr>
-    <th width=20%">Fish</th>
-    <th width="50%">Hydrodynamics</th>
+    <th width=30%">Fish</th>
+    <th width="60%">Hydrodynamics</th>
   </tr>
   <tr>
     <td>&emsp;</td>
-    <td>Vorticity: <img src="Figs/Vortex.gif" width="100%"></td>
+    <td>Vorticity: <img src="Figs/Vortex.gif" width="70%"></td>
   </tr>
   <tr>
-    <td><img src="Figs/LeopardCatshark.gif" width="100%"></td>
-    <td>Velocity: <img src="Figs/Velocity.gif" width="100%"></td>
+    <td><img src="Figs/LeopardCatshark.gif" width="80%"></td>
+    <td>Velocity: <img src="Figs/Velocity.gif" width="70%"></td>
   </tr>
   <tr>
     <td>&emsp;</td>
-    <td>Pressure: <img src="Figs/Pressure.gif" width="100%"></td>
+    <td>Pressure: <img src="Figs/Pressure.gif" width="70%"></td>
   </tr>
 </table>
 
