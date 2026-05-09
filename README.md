@@ -37,7 +37,7 @@ This part performs optimisation and design based on the trained ID-DMD model.
 
 With MATLAB codes for the Fish Body Design paper: https://www.biorxiv.org/content/10.64898/2026.05.06.723159v1
 
-Example demonstrations (Left: ID-DMD; Right: Ground true)
+Example demonstrations (*Left*: **ID-DMD**; *Right*: **Ground true**)
 
 
 **i.e. Leopard Cat Shark (Never seen in training data):**
