@@ -53,7 +53,7 @@ Example demonstrations (*Left*: **ID-DMD**; *Right*: **Ground true**)
   </tr>
   <tr>
     <td><img src="Figs/LeopardCatshark.gif" width="80%"></td>
-    <td>Velocity:&emsp; <img src="Figs/Velocity.gif" width="80%"></td>
+    <td>Velocity:&nbsp; <img src="Figs/Velocity.gif" width="80%"></td>
   </tr>
   <tr>
     <td>&emsp;</td>
