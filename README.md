@@ -1,5 +1,7 @@
 # ID-DMD-for-Fish-Body-Design
 
+<img src="Figs/Fig_1.png" width="90%"> 
+
 ## 1. Code Workflow
 
 All fish hydrodynamic data are summarised in the folder **`Fishes dataset`**.  
@@ -38,8 +40,14 @@ With MATLAB codes for the Fish Body Design paper: https://www.biorxiv.org/conten
 Example demonstrations (Left: ID-DMD; Right: Ground true)
 
 
-Leopard Cat Shark <img src="Figs/LeopardCatshark.gif" width="25%"> 
+**i.e. Leopard Cat Shark (Never seen in training data):**
 
-<img src="Figs/Vortex.gif" width="50%">
+<img src="Figs/LeopardCatshark.gif" width="20%"> 
+
+**Vorticity:** <img src="Figs/Vortex.gif" width="50%">
+
+**Velocity:** <img src="Figs/Velocity.gif" width="50%">
+
+**Pressure:** <img src="Figs/Pressure.gif" width="50%">
 
 
