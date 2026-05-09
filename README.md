@@ -19,7 +19,7 @@ This part analyses the 2D fish body shapes and extracts shape features for subse
 
 ### A1s: Fluid Field Dynamics Analysis
 
-This part analyses the fluid-field dynamics of the fish swimming simulations, including pressure, velocity, and vorticity fields.
+This part analyses the fluid-field dynamics of the fish swimming simulations, including pressure, velocity, and vorticity fields. The fish swimming motion was based on the blog: https://julialang.org/blog/2021/08/sharks/
 
 ### B: ID-DMD Identification
 
