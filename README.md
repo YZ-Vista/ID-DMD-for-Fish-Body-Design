@@ -42,13 +42,24 @@ Example demonstrations (*Left*: **ID-DMD**; *Right*: **Ground true**)
 
 **i.e. Leopard Cat Shark (Never seen in training data):**
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Vorticity:** <img src="Figs/Vortex.gif" width="50%">
-
-<img src="Figs/LeopardCatshark.gif" width="25%">   &emsp;&emsp;  **Velocity:** <img src="Figs/Velocity.gif" width="50%">
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Pressure:** <img src="Figs/Pressure.gif" width="50%">
+<table width="100%">
+  <tr>
+    <th width=30%">Fish</th>
+    <th width="70%">Hydrodynamics</th>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>Vorticity: <img src="Figs/Vortex.gif" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="Figs/LeopardCatshark.gif" width="100%"></td>
+    <td>Velocity: <img src="Figs/Velocity.gif" width="100%"></td>
+  </tr>
+  <tr>
+    <td>&emsp;</td>
+    <td>Pressure: <img src="Figs/Pressure.gif" width="100%"></td>
+  </tr>
+</table>
 
 <img src="Figs/Fig_3.png" width="90%"> 
 
