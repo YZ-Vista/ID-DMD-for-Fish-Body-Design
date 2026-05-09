@@ -38,8 +38,8 @@ With MATLAB codes for the Fish Body Design paper: https://www.biorxiv.org/conten
 Example demonstrations (Left: ID-DMD; Right: Ground true)
 
 
-<img src="Figs/Fig_Airfoil.png" width="25%"> 
+Leopard Cat Shark <img src="Figs/LeopardCatshark.gif" width="25%"> 
 
-<img src="Figs/Airfoil.gif" width="50%">
+<img src="Figs/Vortex.gif" width="50%">
 
 
