@@ -49,15 +49,15 @@ Example demonstrations (*Left*: **ID-DMD**; *Right*: **Ground true**)
   </tr>
   <tr>
     <td>&emsp;</td>
-    <td>Vorticity: <img src="Figs/Vortex.gif" width="70%"></td>
+    <td>Vorticity: <img src="Figs/Vortex.gif" width="80%"></td>
   </tr>
   <tr>
     <td><img src="Figs/LeopardCatshark.gif" width="80%"></td>
-    <td>Velocity: <img src="Figs/Velocity.gif" width="70%"></td>
+    <td>Velocity: <img src="Figs/Velocity.gif" width="80%"></td>
   </tr>
   <tr>
     <td>&emsp;</td>
-    <td>Pressure: <img src="Figs/Pressure.gif" width="70%"></td>
+    <td>Pressure: <img src="Figs/Pressure.gif" width="80%"></td>
   </tr>
 </table>
 
