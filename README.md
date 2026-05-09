@@ -44,8 +44,8 @@ Example demonstrations (*Left*: **ID-DMD**; *Right*: **Ground true**)
 
 <table width="90%">
   <tr>
-    <th width=30%">Fish</th>
-    <th width="60%">Hydrodynamics</th>
+    <th width=20%">Fish</th>
+    <th width="50%">Hydrodynamics</th>
   </tr>
   <tr>
     <td>&emsp;</td>
